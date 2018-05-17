@@ -1,6 +1,0 @@
-{
-    "username": "prostacks",
-    "password": "[github_auth_token]",
-    "strictTls": true,
-    "pooling": 10
-}
